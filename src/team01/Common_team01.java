@@ -4,10 +4,9 @@ public class Common_team01 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("AÀÛ¾÷³¡");
-		System.out.println("BÀÛ¾÷³¡");
-		System.out.println("CÀÛ¾÷³¡");
+		System.out.println("Aì‘ì—…ë");
+		System.out.println("Bì‘ì—…ëë‚¬ì†Œ");
+		System.out.println("Cì‘ì—…ë");
 		
 	}
-	
 }
