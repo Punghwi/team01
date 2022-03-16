@@ -1,11 +1,10 @@
 package team01;
 
-public class Common_team01 {
-
+public class B {
+	
 	public static void main(String[] args) {
 		
-		System.out.println("B작업끝");
+		System.out.println("B작업 출력");
 		
 	}
-	
 }
