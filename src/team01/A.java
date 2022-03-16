@@ -3,7 +3,7 @@ package team01;
 public class A {
 
 	public static void main(String[] args) {
-		System.out.println("aÀÛ¾÷Çß½À´Ï´Ù");
+		System.out.println("aì†¡í•©ë‹ˆë‹¤");
 
 	}
 

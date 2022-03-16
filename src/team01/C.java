@@ -2,6 +2,6 @@ package team01;
 
 public class C {
 	public static void main(String[] args) {
-		System.out.println("cÀÛ¾÷ Ãâ·Â");
+		System.out.println("cì…ë‹ˆë‹¤");
 	}
 }
